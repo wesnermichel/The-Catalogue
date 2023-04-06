@@ -18,3 +18,19 @@ This project is a simple tool for visitors to ***.........
 <img src="https://i.imgur.com/nQLJDAm.png" alt="Wireframe"/>
 <img src="https://i.imgur.com/AS6St9q.png" alt="Wireframe 2"/></a>
 <img src="https://i.imgur.com/CT7z0O1.png" alt="Wireframe 3"/></a>
+
+### MVP Goals
+
+<ul>
+  <li>As a player, I want my catalogue to allow someone to pick an item and learn more about it </li> (5)
+  <li>As a player, I want my catalogue to allow someone to share the link to their favorite social network</li>
+  <li>As a player, I want my catalogue to allow someone to share the link to their favorite social network</li>
+  <li>As a player, I want my catalogue to allow someone to share the link to their favorite social network</li>
+  <li>As a player, I want my catalogue to allow someone to share the link to their favorite social network</li>
+  
+### Stretch Goals
+<ul>
+  <li> As a user I would like to log in using Facebook or Google </li>
+  <li> As a user I would like to (2)
+
+</ul>

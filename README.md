@@ -15,4 +15,5 @@ This project is a simple tool for visitors to ***.........
 
 ## Wireframe
 
-REMOVE THIS IMAGE <img src="https://i.imgur.com/dwoglej.png" alt="Wireframe"/>REMOVE THIS IMAGE, JUST FOLLOW URL STRUCTURE
+REMOVE THIS IMAGE <img src="https://i.imgur.com/nQLJDAm.png" alt="Wireframe"/>>REMOVE THIS IMAGE, JUST FOLLOW URL STRUCTURE
+<img src="https://i.imgur.com/nQLJDAm.png" alt="Wireframe"/>

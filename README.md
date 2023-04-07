@@ -1,7 +1,8 @@
-# The-Catalogue ( Subject to change) 
+# The-Catalogue# The-Catalogue
 
-User Stories
-**** As a user I would like to read exclusive content**
+# The-Catalogue ( Subject to change)
+
+User Stories \***\* As a user I would like to read exclusive content**
 
 ## Project 2
 
@@ -12,7 +13,8 @@ This is our second project, I will be building a CRUD project using HTML5, CSS3,
 For my second project, I decided to go with the Catalogue
 
 ## Project Description
-I want to build a database of stories that havent been read by any other human being on the planet. With unique prompts, and illustrations I would like it tobe a unique experiance for every user. 
+
+I want to build a database of stories that havent been read by any other human being on the planet. With unique prompts, and illustrations I would like it tobe a unique experiance for every user.
 
 ## Wireframe
 

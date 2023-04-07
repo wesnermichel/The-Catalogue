@@ -30,7 +30,8 @@ This project is a simple tool for visitors to ***.........
   
 ### Stretch Goals
 <ul>
-  <li> As a user I would like to log in using Facebook or Google </li>
+  <
   <li> As a user I would like to (2)
+    //accessability/email/age restriction
 
 </ul>

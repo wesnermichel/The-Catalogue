@@ -1,6 +1,8 @@
 # The-Catalogue ( Subject to change) 
 
-User Stories must follow the following template: As a user, I want [feature], because [reason].
+User Stories
+**** As a user I would like to read exclusive to me. *****&
+
 ## Project 2
 
 This is our second project, I will be building a CRUD project using HTML5, CSS3, Express, MongoDB The goal is to make a browser based game.
@@ -10,8 +12,7 @@ This is our second project, I will be building a CRUD project using HTML5, CSS3,
 For my second project, I decided to go with the Catalogue
 
 ## Project Description
-
-This project is a simple tool for visitors to ***.........
+I want to build a database of stories that havent been read by any other human being on the planet. With unique prompts, and illustrations I would like it tobe a unique experiance for every user. 
 
 ## Wireframe
 
@@ -31,7 +32,8 @@ This project is a simple tool for visitors to ***.........
 ### Stretch Goals
 <ul>
   <
-  <li> As a user I would like to (2)
+  <li> As a user I would like to have the story be read for people who many some visual impairment (2)
+  
     //accessability/email/age restriction
 
 </ul>

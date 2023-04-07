@@ -1,7 +1,7 @@
 # The-Catalogue ( Subject to change) 
 
 User Stories
-**** As a user I would like to read exclusive to me. *****&
+**** As a user I would like to read exclusive content**
 
 ## Project 2
 

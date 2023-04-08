@@ -28,7 +28,7 @@ I want to build a database of stories that havent been read by any other human b
 ### MVP Goals
 
 <ul>
-  <li>As a player, I want my catalogue to allow someone to pick an item from a lift of stories and learn more about it once it has been selected </li> (5)
+  <li>As a player, I want my catalogue to allow someone to pick an item from a lift of stories and learn more about it once it has been selected </li> 
   <li>As a player, I want my catalogue to allow someone to share the link to their favorite social network</li>
   <li>As a player, I want my catalogue to be able to edit content from the AI generated content</li>
   <li>As a player, I want my catalogue to view different stories, and</li>

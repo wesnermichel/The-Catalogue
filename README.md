@@ -44,3 +44,12 @@ I want to build a database of stories that havent been read by any other human b
 
 
 </ul>
+  
+  
+ Schema
+ models.stories
+
+title: String,
+author: String,
+image: String,
+story: String,

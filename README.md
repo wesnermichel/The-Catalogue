@@ -36,7 +36,7 @@ I want to build a database of stories that havent been read by any other human b
   
 ### Stretch Goals
 <ul>
-  <
+  
   <li> As a user I would like to have the story be read for people who many some visual impairment </li>
 <li> As a user to log in and make a comment on the story</li>
 
